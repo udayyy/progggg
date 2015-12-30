@@ -1,0 +1,9 @@
+<suite name="Suitettttttt" >
+  <test name="rahulllllls">
+    <classes>
+      
+     <class name="xsltreports.google"/>
+      <class name="xsltreports.gmaillaunch"/>
+    </classes>
+  </test> 
+</suite> 
